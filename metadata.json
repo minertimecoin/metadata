@@ -1,0 +1,24 @@
+{
+  "name": "One-oh-One",
+  "symbol": "ONNE",
+  "description": "Utility token of the One-oh-One ecosystem.",
+  "image": "https://raw.githubusercontent.com/minertimecoin/metadata/refs/heads/main/logo_256.png",
+  "decimals": 9,
+  "website": "https://home.one-oh-one.app",
+  "social": {
+    "telegram": "https://t.me/one_oh_one_bot/crypto_miner",
+    "x": "https://x.com/one_oh_onne"
+  },
+  "assets": {
+    "logo_64": "https://raw.githubusercontent.com/minertimecoin/metadata/refs/heads/main/logo_64.png",
+    "logo_200": "https://raw.githubusercontent.com/minertimecoin/metadata/refs/heads/main/logo_200.png",
+    "logo_214": "https://raw.githubusercontent.com/minertimecoin/metadata/refs/heads/main/logo_214.png",
+    "logo_256": "https://raw.githubusercontent.com/minertimecoin/metadata/refs/heads/main/logo_256.png",
+    "logo_640": "https://raw.githubusercontent.com/minertimecoin/metadata/refs/heads/main/logo_640.png",
+    "logo_1024": "https://raw.githubusercontent.com/minertimecoin/metadata/refs/heads/main/logo_1024.png",
+    "logo_coin_rotation_gif": "https://raw.githubusercontent.com/minertimecoin/metadata/refs/heads/main/logo_coin_rotation.gif",
+    "logo_fast_1024_png": "https://raw.githubusercontent.com/minertimecoin/metadata/refs/heads/main/logo_fast_1024.png",
+    "logo_nonebg_1024_png": "https://raw.githubusercontent.com/minertimecoin/metadata/refs/heads/main/logo_nonebg_1024.png",
+    "logo_rotation_gif": "https://raw.githubusercontent.com/minertimecoin/metadata/refs/heads/main/logo_rotation.gif"
+  }
+}
